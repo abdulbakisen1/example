@@ -20,7 +20,7 @@ class ToolCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
-      color: AppConstants.surfaceColor,
+      color: AppConstants.textColor,
       elevation: 1,
       child: InkWell(
         onTap: onTap,
