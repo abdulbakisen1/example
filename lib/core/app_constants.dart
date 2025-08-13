@@ -28,6 +28,6 @@ class AppConstants {
   static const double pagePadding = 16.0;
   static const double sectionGap = 16.0;
 
-  // ---- Asset Sabitleri (istersen kullan) ----
+  // ---- Asset Sabitleri (istersen kullan) ----a
   static const String logoPath = 'assets/images/logo.png';
 }
